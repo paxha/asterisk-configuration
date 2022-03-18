@@ -1,0 +1,1 @@
+ref: https://wiki.asterisk.org/wiki/display/AST/Setting+up+PJSIP+Realtime
