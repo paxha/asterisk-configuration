@@ -1,1 +1,2 @@
 ref: https://wiki.asterisk.org/wiki/display/AST/Setting+up+PJSIP+Realtime
+ref: http://www.asteriskdocs.org/en/3rd_Edition/asterisk-book-html-chunk/getting_funky.html
