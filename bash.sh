@@ -1,7 +1,7 @@
 #!/bin/bash
 
 sudo apt update && sudo apt upgrade -y
-sudo apt install wget build-essential subversion
+sudo apt install wget build-essential subversion -y
 cd /usr/src
 sudo wget http://downloads.asterisk.org/pub/telephony/asterisk/asterisk-19-current.tar.gz
 sudo tar zxf asterisk-19-current.tar.gz
